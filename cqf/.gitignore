@@ -1,0 +1,9 @@
+!.gitignore
+!.*.sh
+
+*.cqf
+*.o
+
+main
+bm
+
